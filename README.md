@@ -27,3 +27,4 @@ district_or_metro = 'district'  # 'district' или 'metro'
  
 number_of_threads = 5  # Количество потоков, чем больше, тем быстрее будет работать скрипт.
 ```
+Avito.category откуда импортировать?
